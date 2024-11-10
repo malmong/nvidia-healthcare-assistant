@@ -38,3 +38,5 @@ camera, providing recommendations tailored to the individual's health condition,
 
 - **Rendered Image Storage**: When using the ocdrnet model to process the ingredient label images, the rendered images are stored in the `output_directory` for further analysis and processing.
 
+
+![out_62e8361b-ae2a-4ad5-94c3-df8cdff2b1f4](https://github.com/user-attachments/assets/814ed8d3-0276-4ec0-95ad-733e11583e28)
