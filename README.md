@@ -2,7 +2,13 @@
 This project utilizes NVIDIA NIM and Llamaindex to assist in analyzing medical reports and health data. The platform allows users to capture ingredient labels of food or medication through the 
 camera, providing recommendations tailored to the individual's health condition, supporting better lifestyle choices.
 
+
+
+
 ![image](https://github.com/user-attachments/assets/f0f77317-4e1b-4437-8b56-2e9745aeca75)
+
+
+
 
 
 ## Features
