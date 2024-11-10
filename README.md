@@ -25,3 +25,8 @@ camera, providing recommendations tailored to the individual's health condition,
 
 1. Clone the repository to your local machine or use Google Colab to run the code.
 2. Install the necessary dependencies:
+
+## Additional Notes
+
+- **Rendered Image Storage**: When using the ocdrnet model to process the ingredient label images, the rendered images are stored in the `output_directory` for further analysis and processing.
+
